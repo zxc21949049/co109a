@@ -1,6 +1,6 @@
 # 第四週
 ## HalfAdder
-* code
+
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -24,7 +24,7 @@ CHIP HalfAdder {
 ```
 
 ## FullAdder
-* code
+
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -49,7 +49,7 @@ CHIP FullAdder {
 ```
 
 ## Adder16
-* code
+
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -87,7 +87,7 @@ CHIP Add16 {
 ```
 
 ## Inc16
-* code
+
 ```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
