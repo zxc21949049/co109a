@@ -1,4 +1,6 @@
-# 資工二 110810508 曾智暐[以下都有執行](https://github.com/zxc21949049/co109a/tree/master)
+# 資工二 110810508 曾智暐
+
+# [以下都有執行](https://github.com/zxc21949049/co109a/tree/master)
 ## 第一章
 [第一週](https://github.com/zxc21949049/co109a/blob/master/01/hw1.md)
 [第二週](https://github.com/zxc21949049/co109a/blob/master/01/hw2.md)
